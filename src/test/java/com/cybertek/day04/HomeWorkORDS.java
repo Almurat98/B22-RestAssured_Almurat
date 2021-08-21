@@ -69,7 +69,7 @@ public class HomeWorkORDS extends ORDSTestBase {
 
         assertEquals(25, jsonPath.getInt("count"));
 
-        System.out.println(jsonPath.getInt("count"));
+
     }
 
 
